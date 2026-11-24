@@ -1,0 +1,10 @@
+GOOGLE ADSENSE SETUP — QURAN NOOR
+
+1. https://adsense.google.com/ এ গিয়ে নিজের Google account দিয়ে আবেদন করুন।
+2. নিজের প্রকাশিত GitHub Pages URL বা পরবর্তীতে নিজস্ব domain যোগ করুন।
+3. Google সাইট যাচাইয়ের জন্য যে code দেবে, সেটি index.html-এর <head> অংশে বসান। আপনার publisher ID (ca-pub-...) ছাড়া AdSense code কাজ করবে না।
+4. সাইট অনুমোদিত হলে AdSense থেকে ad unit তৈরি করুন এবং তাদের দেওয়া সম্পূর্ণ code নির্ধারিত জায়গায় বসান।
+5. AdSense account-এ ads.txt নির্দেশনা এলে ঠিক সেই লাইনটি root-এর ads.txt ফাইলে যোগ করুন।
+6. আপনার দেশ/অঞ্চলের জন্য Google-এর consent requirements ও AdSense policies অনুসরণ করুন।
+
+গুরুত্বপূর্ণ: AdSense approval বা আয় নিশ্চিত নয়। পর্যাপ্ত মৌলিক/উপকারী কনটেন্ট, ভালো ব্যবহার-অভিজ্ঞতা এবং নীতিমালা মেনে চলা প্রয়োজন। কুরআনের আরবি পাঠ/অনুবাদ/অডিওর পাশে কেবল বিজ্ঞাপন দেখানোর জন্য পাতলা বা স্বয়ংক্রিয় কনটেন্ট তৈরি করবেন না। Publisher ID বা ad code কখনো অনুমান করে বসাবেন না।
